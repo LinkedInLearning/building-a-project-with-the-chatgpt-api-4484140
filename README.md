@@ -26,6 +26,12 @@ To resolve this issue:
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
+## Testing: Library & Package Versions
+This code has been validated against the following software versions:
+```
+openai 1.2.3
+tweepy 4.14.0
+```
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
